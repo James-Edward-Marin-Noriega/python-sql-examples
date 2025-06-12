@@ -1,0 +1,5 @@
+sqlite3
+mysql-connector-python
+psycopg2
+sqlalchemy
+pandas
